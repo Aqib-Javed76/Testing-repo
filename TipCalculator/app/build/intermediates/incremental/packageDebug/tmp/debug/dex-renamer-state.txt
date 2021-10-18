@@ -1,0 +1,7 @@
+#Mon Oct 11 20:11:43 EDT 2021
+base.0=C\:\\Aqib\\Queens college\\Fall semester 2021\\Classes\\CS 370\\Assignments\\Assignment 4\\TipCalculator\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Aqib\\Queens college\\Fall semester 2021\\Classes\\CS 370\\Assignments\\Assignment 4\\TipCalculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
